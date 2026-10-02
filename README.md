@@ -81,7 +81,7 @@ The [samples](samples/) folder holds six files exactly as they are in production
 
 I'm Rajath, a Python full-stack developer and trainer in Bengaluru. Rasova is where I practise building software properly: small commits, a test for every bug, plain-language docs, and fixing the cause rather than the symptom.
 
-If you'd like a walkthrough of the code, a deeper look at any part, or read-only access to the full repository, message me through my GitHub profile.
+If you'd like a walkthrough of the code, a deeper look at any part, or read-only access to the full repository, message me on [LinkedIn](https://www.linkedin.com/in/rajath-r-2k2).
 
 ---
 
